@@ -9,6 +9,6 @@ FROM
     jobs AS j ON jh.JOB_ID = j.JOB_ID
         INNER JOIN
     departments AS d ON jh.DEPARTMENT_ID = d.DEPARTMENT_ID
-		INNER JOIN
-	employees as e ON e.EMPLOYEE_ID = jh.EMPLOYEE_ID
-ORDER BY `Nome completo` DESC , `Cargo`
+        INNER JOIN
+    employees as e ON e.EMPLOYEE_ID = jh.EMPLOYEE_ID
+ORDER BY `Nome completo` DESC , `Cargo`;
