@@ -2,7 +2,7 @@
 
 > Segundo projeto do módulo de Back-end do curso de desenvolvimento web da Trybe.
 
-nesse projeto trabalhamos mais funcionalidades da linguagem SQL, como as principais funções utilizadas na manipulação de strings, operações matemáticas e  condicionais. Além disso, praticamos o uso dos vários tipos de JOIN para extrair e relacionar dados presentes em mais de uma tabela.
+Nesse projeto trabalhamos mais funcionalidades da linguagem SQL, como as principais funções utilizadas na manipulação de strings, operações matemáticas e  condicionais. Além disso, praticamos o uso dos vários tipos de JOIN para extrair e relacionar dados presentes em mais de uma tabela.
 Também treinamos um pouco a criação de funções e procedures.
 
 ### Objetivo do projeto
