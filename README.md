@@ -10,7 +10,6 @@ Também treinamos um pouco a criação de funções e procedures.
 **Objetivo do projeto**
 
 Concluir uma série de desafios construindo querys mais complexas, utilizando dois bancos de dados: `hr` e `w3schools`. 
-Foram praticados os comandos aprendidos ao longo do segundo bloco de Back-end.
 
 **Principais habilidades desenvolvidas nesse trabalho**
 
