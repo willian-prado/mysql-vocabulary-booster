@@ -2,15 +2,17 @@
 
 > Segundo projeto do módulo de Back-end do curso de desenvolvimento web da Trybe.
 
+**Contexto**
+
 Nesse projeto trabalhamos mais funcionalidades da linguagem SQL, como as principais funções utilizadas na manipulação de strings, operações matemáticas e  condicionais. Além disso, praticamos o uso dos vários tipos de JOIN para extrair e relacionar dados presentes em mais de uma tabela.
 Também treinamos um pouco a criação de funções e procedures.
 
-### Objetivo do projeto
+**Objetivo do projeto**
 
 Concluir uma série de desafios construindo querys mais complexas, utilizando dois bancos de dados: `hr` e `w3schools`. 
 Foram praticados os comandos aprendidos ao longo do segundo bloco de Back-end.
 
-### Principais habilidades desenvolvidas nesse trabalho:
+**Principais habilidades desenvolvidas nesse trabalho**
 
   - Utilizar funções para manipular strings em SQL;
   - Criar condicionais usando `IF` e `CASE`;
@@ -19,6 +21,10 @@ Foram praticados os comandos aprendidos ao longo do segundo bloco de Back-end.
   - Utilizar funções de agregação `AVG`, `MIN`, `MAX`, `SUM` e `COUNT`;
   - Combinar dados de várias tabelas usando `JOINs`;
   - Utilizar `STORED PROCEDURES` e `STORED FUNCTIONS`;
+
+**Tecnologia utilizada**
+
+- <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" align="center" height="35"/> - MySQL</a>
 
 ---
 
