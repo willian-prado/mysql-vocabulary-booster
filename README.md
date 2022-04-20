@@ -1,6 +1,6 @@
 ## Projeto Vocabulary Booster
 
-> Segundo projeto do módulo de Back-end do curso de desenvolvimento web da Trybe.
+> Segundo projeto do módulo de Back-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
@@ -9,7 +9,7 @@ Também treinamos um pouco a criação de funções e procedures.
 
 **Objetivo do projeto**
 
-Concluir uma série de desafios construindo querys mais complexas, utilizando dois bancos de dados: `hr` e `w3schools`. 
+Concluir uma série de desafios construindo querys complexas, utilizando dois bancos de dados: `hr` e `w3schools`. 
 
 **Principais habilidades desenvolvidas nesse trabalho**
 
@@ -384,3 +384,7 @@ Confirme a execução correta da procedure, chamando-a e passando o email `"NKOC
 `CALL exibir_historico_completo_por_funcionario('NKOCHHAR');`
 
 Chamando-a dessa forma, sua procedure deve mostrar que a pessoa funcionária `Neena Kochhar` teve dois cargos em seu histórico: um como `Accounting Manager` no departamento `Accounting` e o outro como `Public Accountant` no departamento `Accounting`, nessa ordem.
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
